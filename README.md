@@ -41,12 +41,19 @@ This is a simple Movie Ticket Booking System implemented in C++. It allows users
 
 🎥 **Demo & Flow**
 ---
-1. Run the program → Menu will be displayed. (.assets/1.png)
+1. Run the program → Menu will be displayed. <br>
+![Menu Screenshot](assets/1.PNG) <br>
 2. Choose an option:  
-   - **Display Movies** → Shows movie list with details.  
-   - **Display Seats** → View seat maps of all movies.  
-   - **Book a Ticket** → Select movie → Pick a seat → Ticket gets booked.  
-   - **Display Booked Tickets** → View all past bookings.  
+   - **Display Movies** → Shows movie list with details. <br>
+![movies Screenshot](assets/2.PNG) <br>
+   - **Display Seats** → View seat maps of all movies. <br>
+![seats Screenshot](assets/3.PNG) <br>
+   - **Book a Ticket** → Select movie → Pick a seat → Ticket gets booked.
+![movie Screenshot](assets/4.PNG)   ![book Screenshot](assets/5.PNG)  ![Menu Screenshot](assets/6.PNG) <br>
+   - **Display Booked Tickets** → View all past bookings.  <br>
+![Menu Screenshot](assets/7.PNG) <br>
    - **Exit** → Close program.  
 
-Tickets are automatically saved in `ticket.txt`.
+Tickets are automatically saved in `ticket.txt`. <br>
+
+
